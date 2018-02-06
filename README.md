@@ -1,2 +1,2 @@
 # transactionSim
-Simple app that simulates transactions between two bank accounts.
+Simple Java app that simulates transactions between two bank accounts.
