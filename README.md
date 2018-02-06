@@ -7,3 +7,6 @@ But it works.
 Hey, cut me some slack OK? I'm a novice alright? It's supposed to be quick and dirty.
 
 This glorious little package of gibberish is encapsulated in a single file, found under the "src" folder. 
+
+An illustration of my masterpiece:
+![alt text](https://github.com/HowardYing/transactionSim/blob/master/image.png "Beautiful. Don't you think?")
